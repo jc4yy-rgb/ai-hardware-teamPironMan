@@ -103,10 +103,10 @@ List each member’s main role.
 ## 8. Timeline and Milestones
 Provide expected milestones:
 
-November 8th: Harware Setup
-November 19th: Code and Train Complete
-December 10th: Test and Validate
-December 17th: Presentation and Paper Complete
+- November 8th: Harware Setup
+- November 19th: Code and Train Complete
+- December 10th: Test and Validate
+- December 17th: Presentation and Paper Complete
 
 ## 9. Resources Required
 List special hardware, datasets, or compute access needed.
